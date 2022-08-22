@@ -15,6 +15,11 @@ public class TiposDatos {
 
 
         System.out.println(nombre);
+        System.out.println(nombre);
+        System.out.println(nombre);
+        System.out.println(nombre);
+        System.out.println(nombre);
+
     }
 
 
