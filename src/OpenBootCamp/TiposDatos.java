@@ -15,10 +15,10 @@ public class TiposDatos {
 
 
         System.out.println(nombre);
-        System.out.println(nombre);
-        System.out.println(nombre);
-        System.out.println(nombre);
-        System.out.println(nombre);
+        System.out.println(edad);
+        System.out.println(ids);
+        System.out.println(ImDeveloper);
+        System.out.println(pi);
 
     }
 
