@@ -25,4 +25,15 @@ public class SmartDevice {
     public SmartDevice() {
 
     }
+
+    @Override
+    public String toString() {
+        return "SmartDevice{" +
+                "marca='" + marca + '\'' +
+                ", modelo='" + modelo + '\'' +
+                ", color='" + color + '\'' +
+                ", memoria='" + memoria + '\'' +
+                ", procesador='" + procesador + '\'' +
+                '}';
+    }
 }
